@@ -9,7 +9,7 @@ For example, we can imagine that each day at 8:00 UTC you provide to your subscr
  - ETH : hold
  - APE : sell
 
-Obviously, your goal is to provides the best indicators as possible. Nobody, would subscribe to a service that makes them lose money. To do this, you decide to use Data Science to develop the best indicators.  
+Obviously, your goal is to provide the best indicators as possible. Nobody, would subscribe to a service that makes them lose money. To do this, you decide to use Data Science to develop the best indicators.  
 You're expected to present your business plan and argument the quality of your indicators in two weeks to a panel of investors to raise money.
 
 

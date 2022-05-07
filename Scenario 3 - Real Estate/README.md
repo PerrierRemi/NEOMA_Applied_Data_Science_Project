@@ -1,7 +1,7 @@
 # Scenario 3 - Real Estate
 
 ## Context
-You're a team of Data Scientists from a consulting firm which aims to help other business to enhance their process by using Data Science.  
+You're a team of Data Scientists from a consulting firm which aims to help other businesses to enhance their process by using Data Science.  
 Your team is send in mission for *Mon petit chez-moi*, a real estate agency.  
 *Mon petit chez-moi* is a small team (<10 persons), primarily composed of real estate agent. They have no data and all their process are manual. However, they heard about Intelligence Artificial and Machine Learning and would like to know how it can help them for their specific activity.  
 *Mon petit chez-moi* operates on *Villefranche-sur-Saône* (69400) sector. Ideally, they would like to extend to Lyon and its surrounding.  
