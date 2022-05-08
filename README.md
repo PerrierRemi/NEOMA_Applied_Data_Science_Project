@@ -28,7 +28,7 @@
     - Business added value and relevance.
 
 - Tools that can help you :
-    - Prototype : https://github.com/pycaret/pycaret
+    - Prototype : https://github.com/streamlit
     - NLP : https://huggingface.co/models (feel free to use a pretrained model !)
 
 - If you have a question or a doubt send me an email !
