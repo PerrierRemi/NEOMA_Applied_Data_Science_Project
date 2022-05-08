@@ -30,5 +30,9 @@
 - Tools that can help you :
     - Prototype : https://github.com/streamlit
     - NLP : https://huggingface.co/models (feel free to use a pretrained model !)
+    - Deployment :
+        - https://www.heroku.com/
+        - https://cloud.google.com/
+        - https://aws.amazon.com/
 
 - If you have a question or a doubt send me an email !
