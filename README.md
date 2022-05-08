@@ -1,6 +1,6 @@
 # Applied Data Science Project
 
-- Deadline : 21/06/2022
+- Deadline : 21/0/2022
 
 - By group of 2, 3 or 4 (~10 groups).
     - Except Scenario 1 which is limited to 2 or 3 persons.
@@ -9,6 +9,10 @@
 
 - You should :
     - Prepare a 10m presentation with slides (expect some questions).
+        - Slides in English.
+        - Presentation in French or English (Bonus point if you go with English !)
+        - Your presentation should underline the business value created by your solution.
+        - Your presentation must be comprehensible for non-technical people but also show the technical quality of your work (you'll probably need to explain some key technical concepts to your audience).
     - Create a GitHub repository and upload all your code.
 
 - There are 3 subjects :
@@ -19,6 +23,12 @@
     - Precise it within your email with your team composition.
 
 - You will be evaluated on :
-    - Communication quality (presentation and questions). 
+    - Communication quality (presentation, vulgarization and answers to questions). 
     - Technical quality (methodology / code quality)
     - Business added value and relevance.
+
+- Tools that can help you :
+    - Prototype : https://github.com/pycaret/pycaret
+    - NLP : https://huggingface.co/models (feel free to use a pretrained model !)
+
+- If you have a question or a doubt send me an email !

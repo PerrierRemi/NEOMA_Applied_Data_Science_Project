@@ -13,7 +13,7 @@ Your mission is two weeks long, *Mon petit che-moi* team expects great propositi
 - *Mon petit chez-moi* real estate agents have two main activities :
     - Search on the different main ads apps for properties for their clients.
     - Keep an eye on the global state of the market.
-
+- Take the location you want.
 
 ## Ressources
 It's only to give you some ideas, you're not required to use them.
